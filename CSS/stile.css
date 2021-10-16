@@ -1,0 +1,212 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #F5F7FA;
+   
+}
+.main_conteyner{
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    top: 40pt;
+    left: 40px;
+    background-color: white;
+    margin: 40px auto;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+/* main_content_section */
+.main_content_section{
+    padding: 100px 90px;
+}
+/* About me section */
+.about_me_section{
+    margin-bottom: 40px;
+}
+.about_me_profession{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000;  
+    margin-bottom: 20px; 
+}
+.about_me_name{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 55px;
+    color: #000000;
+    margin-bottom: 25px;
+}
+.about_me_description{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    Width:400px;    
+}
+ /* my projects secyion */
+
+.mein_content_title{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    color: black;
+    margin-bottom: 10px;
+} 
+.my_projects_section{
+    margin-bottom: 50px;
+ }  
+.my_projects_list{
+    padding: 0 0 0 17px;}
+
+.my_projects_item{
+    color: #000;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    Width: 700px;
+    
+}
+.my_projects_link{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959; 
+}
+.my_projects_text{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    margin-left: 5px;
+}
+.my_projects_bracket{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+}
+
+/* my_work_expirience */
+
+.my_work_expirience_company{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FB6D3A;}
+.my_work_expirience_position{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    margin: 0 0 10px 0;}
+.my_work_expirience_divider{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    color: #000000;
+    font-weight: bold;
+    margin: 0 0 10px 0;}
+.my_work_expirience_period{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+    margin: 0 0 10px 0;}
+.my_work_expirience_duties{
+    
+    color: #595959;
+    padding-left: 19px;
+    margin: 0 0 10px 0;}
+.my_work_expirience_duty{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    Width: 525px;
+    color: #595959;}
+.my_work_expirience_company_block{
+    margin: 0 15px 0 0;}
+.my_work_expirience_Management{
+    margin: 10px 0;}
+
+/* saidebar_section */
+
+
+.saidebar_section{
+    background-color: #1E2939;
+    font-size: 14px;
+    font-weight: 400;
+    color: white; 
+    padding-top: 40px;
+    Width: 370px;
+}
+
+
+.contact_section,
+.tech_skill_section,
+.Soft_Skill_Section{
+    margin: 50px 0 0 40px ;
+}
+.saidebar_title {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 10px;
+}
+/* Contacts_section */
+
+.contact_section_type{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    margin-right: 8px;
+}  
+.contact_section_link{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #80868F;
+}
+/* tech skills */
+
+.tech_skill_list{
+    padding: 0 0 0 17px;   
+}
+.tech_skill_item{
+   color: #FB6D3A; 
+}
+.tech_skill_item_text{
+    color: white;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+}  
+/* Soft skills */
+
+.Soft_skill_item{
+    color: #FB6D3A; }
+.Soft_skill_list{
+    padding: 0 0 0 17px;}
+.Soft_skill_item_text{
+    color: white;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+
